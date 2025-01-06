@@ -19,12 +19,10 @@
 
 ### 🌐 Connect with Me:
 <p align="left">
-  <a href="https://www.linkedin.com/in/ankush-yadav/" target="_blank">
+  <a href="https://www.linkedin.com/in/ankush-yadav-85b17a230" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" height="30" width="30" />
   </a>
-  <a href="https://twitter.com/ankush_yadav" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/x/x-ar21.svg" alt="Twitter" height="30" width="30" />
-  </a>
+ 
 </p>
 
 ---
